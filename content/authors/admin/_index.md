@@ -13,9 +13,6 @@ organizations:
 - name: ClinOpsHub
   url: https://www.clinopshub.com/
 
-# Role/position/tagline
-- role: PhD student in Biostatistics and Clinical Epidemiology @
-
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Univesity of Padua
