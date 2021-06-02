@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: "2021-06-07"
-  date_start: ""
+  date_start: "2021-05-03"
   description: ""
   organization: FormazioneNelFarmaceutico.com
   organization_url: https://formazionenelfarmaceutico.com/
@@ -33,7 +33,7 @@ item:
   url: ""
 - certificate_url:
   date_end: "2021-03-29"
-  date_start: ""
+  date_start: "2021-03-01"
   description: ""
   organization: FormazioneNelFarmaceutico.com
   organization_url: https://formazionenelfarmaceutico.com/
