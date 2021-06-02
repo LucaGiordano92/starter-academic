@@ -6,12 +6,14 @@ title: Luca Giordano
 superuser: true
 
 # Role/position/tagline
-role: Clinical Project Associate @ ClinOpsHub
+- role: Clinical Project Associate @ 
+# ClinOpsHub
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: ClinOpsHub
   url: https://www.clinopshub.com/
+- role: PhD student in Biostatistics and Clinical Epidemiology @
 - name: Univesity of Padua
   url: http://phdmorgagni.dctv.unipd.it/phd/index.php
 
