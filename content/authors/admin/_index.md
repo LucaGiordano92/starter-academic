@@ -6,12 +6,12 @@ title: Luca Giordano
 superuser: true
 
 # Role/position/tagline
-role: Clinical Project Associate @ ClinOpsHub, PhD student in Biostatistics and Clinical Epidemiology
+role: Clinical Project Associate @ ClinOpsHub
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: ClinOpsHub
+  url: https://www.clinopshub.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
