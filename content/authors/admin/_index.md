@@ -6,8 +6,7 @@ title: Luca Giordano
 superuser: true
 
 # Role/position/tagline
-role: Clinical Project Associate @ ClinOpsHub &shy;
-and PhD student in Biostatistics and Clinical Epidemiology @ University of Padua
+role: Clinical Project Associate @ ClinOpsHub
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
