@@ -9,11 +9,6 @@ superuser: true
 role: Clinical Project Associate @ ClinOpsHub &shy;
 and PhD student in Biostatistics and Clinical Epidemiology @ University of Padua
 
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: ClinOpsHub
-  url: https://www.clinopshub.com/
-
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
