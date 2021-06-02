@@ -12,9 +12,6 @@ superuser: true
 organizations:
 - name: ClinOpsHub
   url: https://www.clinopshub.com/
-
-# Organizations/Affiliations to show in About widget
-organizations:
 - name: Univesity of Padua
   url: http://phdmorgagni.dctv.unipd.it/phd/index.php
 
