@@ -1,12 +1,13 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Luca Giordano
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Clinical Project Associate @ ClinOpsHub
+role: PhD student in Biostatistics and Clinical Epidemiology
 
 # Organizations/Affiliations to show in About widget
 organizations:
