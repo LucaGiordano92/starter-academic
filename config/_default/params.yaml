@@ -63,8 +63,8 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
+date_format: 'Mon, 2 Jan 2006'
+time_format: '15:04'
 address_format: en-us
 
 # Site features
@@ -136,7 +136,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: '2'
+  provider: '0'
   api_key: ''
   latitude: '40.559869'
   longitude: '17.806590'
