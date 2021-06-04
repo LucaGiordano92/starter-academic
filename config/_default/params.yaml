@@ -136,7 +136,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: '1'
+  provider: '2'
   api_key: ''
   latitude: '40.559869'
   longitude: '17.806590'
