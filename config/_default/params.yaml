@@ -138,6 +138,8 @@ search:
 map:
   provider: '1'
   api_key: ''
+  latitude: '40.559869'
+  longitude: '17.806590'
   zoom: 15
 marketing:
   google_analytics: ''
