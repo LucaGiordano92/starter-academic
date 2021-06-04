@@ -24,31 +24,31 @@ email: giordanoluca@live.com
 phone: +39 351 82 92 975
 address:
   street: Via Manfedi Svevo, 30
-  city: Mesagne
+  city: Mesagne (BR)
   region: IT
   postcode: '72023'
   country: Italy
-  country_code: IT
+  country_code: Italy
 coordinates:
   latitude: '40.55'
   longitude: '17.80'
 contact_links:
-  - icon: twitter
+  - icon: guithub
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
+    name: GitHub Me
+    link: 'https://github.com/LucaGiordano92/'
+  - icon: linkedin
+    icon_pack: fab
+    name: LinkedIn Me
+    link: 'https://www.linkedin.com/in/luca-giordano-clinical-research/'
+  - icon: telegram
+    icon_pack: fab
+    name: Telegram Me
+    link: 'https://telegram.me/Luca_Giordano'
   - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
     icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: Skype Me
+    link: 'skype:live:'
 
 # Site header
 
@@ -136,7 +136,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: '0'
+  provider: '2'
   api_key: ''
   latitude: '40.559869'
   longitude: '17.806590'
