@@ -139,14 +139,6 @@ map:
   provider: ''
   api_key: ''
   zoom: 15
-
-map = 2
-map_api_key = ""
-latitude = "45.410179"
-longitude = "11.887670"
-zoom = 15
-
-
 marketing:
   google_analytics: ''
   google_tag_manager: ''
