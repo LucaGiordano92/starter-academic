@@ -33,7 +33,7 @@ coordinates:
   latitude: '40.55'
   longitude: '17.80'
 contact_links:
-  - icon: guithub
+  - icon: github
     icon_pack: fab
     name: GitHub Me
     link: 'https://github.com/LucaGiordano92/'
@@ -46,7 +46,7 @@ contact_links:
     name: Telegram Me
     link: 'https://telegram.me/Luca_Giordano'
   - icon: skype
-    icon_pack: fas
+    icon_pack: fab
     name: Skype Me
     link: 'skype:live:jimlucagio'
 
