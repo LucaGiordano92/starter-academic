@@ -23,15 +23,15 @@ twitter: ''
 email: giordanoluca@live.com
 phone: +39 351 82 92 975
 address:
-  street: 30, Manfedi Svevo
+  street: Via Manfedi Svevo, 30
   city: Mesagne
   region: IT
   postcode: '72023'
   country: Italy
   country_code: IT
 coordinates:
-  latitude: '40.559869'
-  longitude: '17.806590'
+  latitude: '40.55'
+  longitude: '17.80'
 contact_links:
   - icon: twitter
     icon_pack: fab
