@@ -55,7 +55,7 @@ experience:
         * Microbiological analysis on products
         * Statistical processing of data and results.
     
-    - title: Quality Control Analist
+  - title: Quality Control Analist
     company: Sanofi SpA
     company_url: 'https://www.sanofi.it/'
     company_logo: org-x
@@ -69,7 +69,7 @@ experience:
         * Sampling and microbiological analysis of water, packaging, raw materials and finished product;
         * LAL-test.
    
-   - title: Researcher
+  - title: Researcher
     company: National Research Council (CNR)
     company_url: 'https://www.cnr.it/'
     company_logo: org-x
