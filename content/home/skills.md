@@ -41,7 +41,7 @@ feature:
   icon_pack: fas
   name: Guitar
 - description: Amateur chess player
-  icon: chees
+  icon: chess
   icon_pack: fas
   name: Chess 
 - description: Green thumb 
