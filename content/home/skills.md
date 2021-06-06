@@ -28,7 +28,23 @@ feature:
   icon: laptop-code
   icon_pack: fas
   name: SAS
-
+- description: Python Base
+  icon: python
+  icon_pack: fab
+  name: Python
+- description: Use of Raspberry Pi for some home project
+  icon: raspberry-pi
+  icon_pack: fab
+  name: Raspberry Pi
+- description: Guitar player in some band and orchestra
+  icon: guitar
+  icon_pack: fas
+  name: Guitar
+- description: Amateur chess player
+  icon: chees
+  icon_pack: fas
+  name: Chess 
+  
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
