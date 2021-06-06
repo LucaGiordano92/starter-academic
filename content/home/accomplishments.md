@@ -29,13 +29,13 @@ item:
   description: |2-
     Topics:
         
-        * Introduction to DBs
-        * Role of the Clinical Data Manager and evolution towards the Clinical Data Scientist
-        * Good Clinical Data Management Practices
-        * Management of personal data
-        * Common Data Element and standard in the Clinical Data Management
-        * Design and development of paper and electronic Case Report Forms
-        * Clinical Data Manager and data quality management
+      * Introduction to DBs
+      * Role of the Clinical Data Manager and evolution towards the Clinical Data Scientist
+      * Good Clinical Data Management Practices
+      * Management of personal data
+      * Common Data Element and standard in the Clinical Data Management
+      * Design and development of paper and electronic Case Report Forms
+      * Clinical Data Manager and data quality management
   
   organization: FormazioneNelFarmaceutico.com
   organization_url: https://formazionenelfarmaceutico.com/
