@@ -22,10 +22,10 @@ date_end: ""
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-05-27"
+publishDate: "2021-05-27T15:00"
 
-authors: [Luca Giordano]
-tags: []
+authors: [admin]
+tags: [Regulation (EU) 536/2014]
 
 # Is this a featured talk? (true/false)
 featured: false
