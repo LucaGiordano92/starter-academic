@@ -17,12 +17,12 @@ During this treaty, the most important innovations brought by this regulation ar
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-05-20T03:00PM"
+date: "2021-05-06T03:00PM"
 # date_end: ""
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-05-20T03:00PM"
+publishDate: "2021-05-03T03:00PM"
 
 authors: [admin]
 tags: [Regulation (EU) 536/2014]
