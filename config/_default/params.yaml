@@ -50,7 +50,7 @@ contact_links:
     name: Skype Me
     link: 'skype:live:jimlucagio'
   - icon: researchgate
-    icon_pack: fas
+    icon_pack: fab
     name: Research Gate Me
     link: 'https://www.researchgate.net/profile/Luca-Giordano-5'
 
