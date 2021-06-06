@@ -22,7 +22,7 @@ date: "2021-05-04T11:00"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-05-03T11:00"
+publishDate: "2021-05-03"
 
 authors: [admin]
 tags: [Regulation (EU) 536/2014]
