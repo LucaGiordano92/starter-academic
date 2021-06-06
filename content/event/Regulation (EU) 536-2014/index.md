@@ -17,7 +17,7 @@ During this treaty, the most important innovations brought by this regulation ar
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-05-06T03:00PM"
+date: "2021-05-02T03:00PM"
 # date_end: ""
 all_day: false
 
