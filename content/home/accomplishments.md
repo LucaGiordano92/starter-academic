@@ -35,7 +35,7 @@ item:
       * Management of personal data
       * Common Data Element and standard in the Clinical Data Management
       * Design and development of paper and electronic Case Report Forms
-      * Clinical Data Manager and data quality management
+      * Clinical Data Manager and data quality management.
   
   organization: FormazioneNelFarmaceutico.com
   organization_url: https://formazionenelfarmaceutico.com/
@@ -44,7 +44,35 @@ item:
 - certificate_url:
   date_end: "2021-03-29"
   date_start: "2021-03-01"
-  description: ""
+  description: |2-
+    Topics:
+        
+      * Install the SAS University tool
+      * Loading database
+      * Data-Step
+      * Proc format
+      * Proc Freq
+      * Proc Means
+      * Proc SQL
+      * Merge
+      * Append
+      * Creation of a derived variable
+      * Study design and database preparation
+      * Test Kolmogrov-Smirnov
+      * Parametric and non-parametric p-value test
+      * Simple linear model
+      * Logistic model
+      * ANOVA
+      * MANOVA
+      * Kaplan Mayer curve
+      * SAP Design
+      * Data Visualization Plan Design
+      * Programming of derived variables
+      * Statistic analysis
+      * CDISC, SDTM and Therapeutic Areas
+      * Create a database in CDISC
+      * Proc SGPLOT.
+   
   organization: FormazioneNelFarmaceutico.com
   organization_url: https://formazionenelfarmaceutico.com/
   title: SAS Programmer in clinical research
