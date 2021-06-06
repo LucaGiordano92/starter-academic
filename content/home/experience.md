@@ -22,28 +22,65 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Clinical Project Associate
+    company: ClinOpsHub srl
+    company_url: 'https://www.clinopshub.com/'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Mesagne (BR), IT
+    date_start: '2019-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Management and modification of documents under Sponsor directives
+        * Submission of documents to competent authority and ethics committees
+        * Management of computer systems
+        * Management of various training courses in Clinical Research and in Biostatistics
+        * Management of an e-learning platform (FormazioneNelFarmaceutico.com)
+        * Helping sites in meeting AIFA's requirements for phase 1 trials
+        * Writing and revision of SOP
+        * Translation of Essential Documents.
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Quality Control Analist
+    company: Pfizer Italia srl
+    company_url: 'https://www.pfizer.it/cont/pfizer-italia/pfizer-italia.asp'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Ascoli Piceno (AP), IT
+    date_start: '2018-09-01'
+    date_end: '2018-11-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Environmental sampling and Microbiological identification
+        * Microbiological analysis on products
+        * Statistical processing of data and results.
+    
+    - title: Quality Control Analist
+    company: Sanofi SpA
+    company_url: 'https://www.sanofi.it/'
+    company_logo: org-x
+    location: Ascoli Piceno (AP), IT
+    date_start: '2018-09-01'
+    date_end: '2018-11-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Writing and setting up of Standard Operating Procedure;
+        * Sampling and microbiological analysis of water, packaging, raw materials and finished product;
+        * LAL-test.
+   
+   - title: Researcher
+    company: National Research Council (CNR)
+    company_url: 'https://www.cnr.it/'
+    company_logo: org-x
+    location: Lecce (LE), IT
+    date_start: '2016-02-01'
+    date_end: '2016-10-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Microbiological and chemical analysis;
+        * Panel test.
 
 design:
   columns: '2'
