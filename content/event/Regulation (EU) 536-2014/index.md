@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-05-27"
 
-authors: [admin]
+authors: [Luca Giordano]
 tags: []
 
 # Is this a featured talk? (true/false)
