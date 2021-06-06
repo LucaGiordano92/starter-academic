@@ -17,8 +17,8 @@ During this treaty, the most important innovations brought by this regulation ar
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-05-27T13:00:00Z"
-date_end: "2021-05-27T15:00:00Z"
+date: "2021-05-27"
+date_end: ""
 all_day: false
 
 # Schedule page publish date (NOT talk date).
