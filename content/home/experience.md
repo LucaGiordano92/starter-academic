@@ -25,7 +25,7 @@ experience:
   - title: Clinical Project Associate
     company: ClinOpsHub srl
     company_url: 'https://www.clinopshub.com/'
-    company_logo: org-gc
+    company_logo: 
     location: Mesagne (BR), IT
     date_start: '2019-01-01'
     date_end: ''
@@ -44,7 +44,7 @@ experience:
   - title: Quality Control Analist
     company: Pfizer Italia srl
     company_url: 'https://www.pfizer.it/cont/pfizer-italia/pfizer-italia.asp'
-    company_logo: org-x
+    company_logo: 
     location: Ascoli Piceno (AP), IT
     date_start: '2018-09-01'
     date_end: '2018-11-01'
@@ -58,7 +58,7 @@ experience:
   - title: Quality Control Analist
     company: Sanofi SpA
     company_url: 'https://www.sanofi.it/'
-    company_logo: org-x
+    company_logo: 
     location: Ascoli Piceno (AP), IT
     date_start: '2018-09-01'
     date_end: '2018-11-01'
@@ -72,7 +72,7 @@ experience:
   - title: Researcher
     company: National Research Council (CNR)
     company_url: 'https://www.cnr.it/'
-    company_logo: org-x
+    company_logo: 
     location: Lecce (LE), IT
     date_start: '2016-02-01'
     date_end: '2016-10-01'
