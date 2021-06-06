@@ -49,7 +49,7 @@ feature:
   icon_pack: fas
   name: Green thumb 
 - description: Wahter-addicted
-  icon: swimming
+  icon: swimmer
   icon_pack: fas
   name: Swimming
   
