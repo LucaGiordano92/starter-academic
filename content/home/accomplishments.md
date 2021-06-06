@@ -26,8 +26,8 @@ item:
 - certificate_url: 
   date_end: "2021-06-07"
   date_start: "2021-05-03"
-  description: |2-
-  "
+  description: "|2-
+  
   Topics:
         
         * Introduction to DBs
