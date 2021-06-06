@@ -42,12 +42,16 @@ feature:
   name: Guitar
 - description: Amateur chess player
   icon: chees
-  icon_pack: fab
+  icon_pack: fas
   name: Chess 
 - description: Green thumb 
   icon: seedling
-  icon_pack: fab
+  icon_pack: fas
   name: Green thumb 
+- description: Wahter-addicted
+  icon: swimming
+  icon_pack: fas
+  name: Swimming
   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
