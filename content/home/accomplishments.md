@@ -26,7 +26,7 @@ item:
 - certificate_url: 
   date_end: "2021-06-07"
   date_start: "2021-05-03"
-  description: "|2-
+  description: |2-
   
   Topics:
         
@@ -37,7 +37,7 @@ item:
         * Common Data Element and standard in the Clinical Data Management
         * Design and development of paper and electronic Case Report Forms
         * Clinical Data Manager and data quality management
-  "
+  
   organization: FormazioneNelFarmaceutico.com
   organization_url: https://formazionenelfarmaceutico.com/
   title: Clinical Data Manager inside and outside the clinical center
