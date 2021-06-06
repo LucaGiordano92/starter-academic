@@ -26,8 +26,8 @@ feature:
   name: Statistics
 - description: SAS Base, SAS Adanced
   icon: laptop-code
-  icon_pack: fab
-  name: Photography
+  icon_pack: fas
+  name: SAS
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
