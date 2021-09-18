@@ -27,7 +27,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
 - Clinical Research
-- Programming (Python, R, SAS, SQL)
+- Programming (R, SAS, SQL, Python)
 - Biostatistics and Clinical Epidemiology
 - Play (Guitar, Piano)
 
