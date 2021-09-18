@@ -3,7 +3,7 @@ title: The automation of systematic reviews: a casa study on ECMO support
 event: SISMEC
 event_url: 
 
-location: Bari 
+location:  
 address:
   street: 
   city: 
