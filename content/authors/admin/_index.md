@@ -30,6 +30,8 @@ interests:
 - Programming (R, SAS, SQL, Python)
 - Biostatistics and Clinical Epidemiology
 - Play (Guitar, Piano)
+- Cybersecurity, Cryptography and privacy
+-  Reading essays
 
 # Education to show in About widget
 education:
