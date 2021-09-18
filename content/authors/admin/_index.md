@@ -22,7 +22,7 @@ organizations:
 #  url: http://phdmorgagni.dctv.unipd.it/phd/index.php
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: During my life I have had the opportunity to approach different fields, such as biology, music, statistics and information technology; and I had the opportunity and the will to do everything with the utmost passion and dedication.
 
 # Interests to show in About widget
 interests:
