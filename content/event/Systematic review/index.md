@@ -1,6 +1,5 @@
 ---
 title: The automation of systematic review
-
 event: The automation of systematic review: a case study on ECMO support
 event_url: 
 
