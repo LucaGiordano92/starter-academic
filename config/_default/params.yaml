@@ -69,7 +69,7 @@ main_menu:
 
 date_format: 'Mon, 2 Jan 2006'
 time_format: '15:04'
-address_format: it
+address_format: en-us
 
 # Site features
 
