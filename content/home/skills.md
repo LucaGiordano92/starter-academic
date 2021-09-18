@@ -44,11 +44,11 @@ feature:
   icon: chess
   icon_pack: fas
   name: Chess 
-- description: Green thumb 
+- description: I have a small crop of avocado, ginger, tomato, mango and other fruit plants
   icon: seedling
   icon_pack: fas
   name: Green thumb 
-- description: Wahter-addicted
+- description: Sea-addicted
   icon: swimmer
   icon_pack: fas
   name: Swimming
