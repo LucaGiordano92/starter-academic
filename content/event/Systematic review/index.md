@@ -8,7 +8,7 @@ address:
   street: 
   city: 
   region: 
-  postcode: ''
+  postcode:
   country: 
 
 summary: Speech speech on how to automate the drafting of systematic reviews
@@ -16,7 +16,7 @@ abstract: "During the last years, systematic reviews in the literature have incr
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-09-16T2:00"
+date: "2021-09-16T14:00"
 # date_end: ""
 all_day: false
 
