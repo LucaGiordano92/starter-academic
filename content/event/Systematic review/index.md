@@ -11,7 +11,7 @@ address:
   postcode: ''
   country: 
 
-summary: Tool to automate the drafting of a systematic review.
+summary: Tools to automate the drafting of a systematic review.
 abstract: "Writing a systematic review is a very time-consuming and time-consuming process. For this reason, over the last few years, various methods based on Machine Learning have been developed, able to automate some phases of the drafting of a systematic review and, therefore, reducing the time and expenditure necessary."
 
 # Talk start and end times.
