@@ -4,14 +4,6 @@ title: The automation of systematic reviews: a casa study on ECMO support
 event: SISMEC
 event_url: 
 
-location: 
-address:
-  street: 
-  city: 
-  region: 
-  postcode: 
-  country: 
-
 summary: Speech speech on how to automate the drafting of systematic reviews
 abstract: "During the last years, systematic reviews in the literature have increased exponentially. For this reason it is necessary to identify and validate methods that can synthesize the evidence."
 
