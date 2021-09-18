@@ -1,5 +1,5 @@
 ---
-title: The automation of systematic reviews. a case study on ECMO support
+title: The automation of systematic reviews. A case study on ECMO support
 event: SISMEC
 event_url: 
 
