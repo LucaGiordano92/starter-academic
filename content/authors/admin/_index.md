@@ -83,7 +83,7 @@ highlight_name: true
 # {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
-Luca Giordano is a Clinical Project Associate at ClinOpsHub, an Italian CRO. and a PhD student at the University of Padua. His work activity is mainly focused on the management of some projects related to training and on the ethical submission of clinical studies. In addition, it is deepening its knowledge about the statistical aspects of clinical studies.
+Luca Giordano is a Clinical Project Associate at ClinOpsHub, an Italian CRO and a PhD student at the University of Padua. His work activity is mainly focused on the management of some projects related to training and on the ethical submission of clinical studies. In addition, it is deepening its knowledge about the statistical aspects of clinical studies.
 
 
 
