@@ -38,7 +38,7 @@ education:
   courses:
   - course: PhD in Biostatistics and Clinical Epidemiology
     institution: University of Padua
-    year: ognoing
+    year: ongoing
   - course: II level Master in Pharmaceutical Technologies and Regulatory Activities
     institution: University of Pavia
     year: 2020
